@@ -1,0 +1,100 @@
+.search{
+	padding:150px 150px 205px 150px;
+}
+.crd{
+	margin-top: 30px;
+	margin-left: 20px;
+}
+.card1 img{
+	height: 20%;
+}
+.container img{
+	height: 300px;
+	margin-bottom: 40px;
+}
+.container h5 {
+	text-align: center;
+}
+.container1{
+	margin-left: 40%;
+}
+.collapse{
+  margin-top: 10px;
+  text-color: black; 
+}
+.app img{
+width: 100px;
+height: 100px;
+}
+.hr{
+  border: 10px solid grey;
+  border-radius: 5px;
+}
+.card img{ 
+  width: 100px;
+  height: 100px;
+  margin-bottom: 10px;
+  border-radius: 20px;
+}
+
+.jobo a{
+margin-left: 10%;
+}
+.shadow{
+  width: 65%;
+}
+.sk{
+margin-left: 30%;
+margin-top: 50%;
+  width: 85%;
+}
+/* icons css */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.footer, .foot{
+  background-color: black;
+  color: white;
+}
+.foot a{
+  color: white;
+}
+.footer p{
+  padding-top: 10px;
+  margin-left: 40%;
+}
+.footbelow{
+  padding-top: 11%;
+}
+.site-contact{
+  margin-left: 30%;
+}
+/* When the screen is less than 600px wide, stack the links and the search field vertically instead of horizontally */
+@media screen and (max-width: 600px) {
+  .wrap{
+  min-height: 50%;
+  }
+}
